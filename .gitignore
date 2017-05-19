@@ -1,0 +1,8 @@
+#bteclipse plugin
+.target
+.project
+.classpath
+.settings
+target/
+
+*/target/**
